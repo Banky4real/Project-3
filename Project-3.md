@@ -53,19 +53,22 @@
 `node index.js`
 
 ![MongoDB-Connection-Success](./Images/mongoDB-connection-success.png)
-![database-Populated-with-restfuAPI](./Images/database-test-with-restfulAPI.png)
+#### Database Populated with Entries 
+![database-Populated-Using-restfuAPI](./Images/database-test-with-restfulAPI.png)
 
 ### Frontend Creation
 ` npx create-react-app client`
 ` npm install concurrently --save-dev`
 `npm install nodemon --save-dev`
 `npm run dev`
-
+#### Creating React App
 ![creating-React](./Images/Creating-react-app.png)
+#### React App running on Port 3000
 ![ReactAPP-running-on-port-3000](./Images/react-app-running-on-port-3000.png)
 
 #### Axios Installation
 ` npm install axios`
 
 ![Axios-Installation](./Images/Axios-installation-success.png)
+#### Todo Running in Browser
 ![Todo-running-inBrowser](./Images/todo-app-running-in-browser.png)
