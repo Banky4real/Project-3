@@ -30,3 +30,42 @@
 `npm init`
 
 ![initializing-todo-project](./Images/initializing_todo_app.png)
+
+### Installing Express.JS
+`npm install express`
+`npm install dotenv`
+
+![ExpressJs-installation](./Images/expressJS-installation.png)
+![ExpressJs-on-port-5000-web](./Images/express-JS-running-on-port-5000.png)
+![indexJS-Running-on-port-5000](./Images/indexJS-running-on-port-5000.png)
+![dotENV-Installation](./Images/dotenv-installed.png)
+
+### Creating Model for our Application
+
+### Mongoose Installation and creating Models Directory
+`npm install mongoose`
+`mkdir models`
+
+![Mongoose-model-directory](./Images/mongoose-for-mongodb-installed.png)
+
+
+#### MongoDb Connected Successfully
+`node index.js`
+
+![MongoDB-Connection-Success](./Images/mongoDB-connection-success.png)
+![database-Populated-with-restfuAPI](./Images/database-test-with-restfulAPI.png)
+
+### Frontend Creation
+` npx create-react-app client`
+` npm install concurrently --save-dev`
+`npm install nodemon --save-dev`
+`npm run dev`
+
+![creating-React](./Images/Creating-react-app.png)
+![ReactAPP-running-on-port-3000](./Images/react-app-running-on-port-3000.png)
+
+#### Axios Installation
+` npm install axios`
+
+![Axios-Installation](./Images/Axios-installation-success.png)
+![Todo-running-inBrowser](./Images/todo-app-running-in-browser.png)
